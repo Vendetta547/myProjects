@@ -1,9 +1,3 @@
-'''
-Dylan Martin
-CSC 2950
-Term Project Script 3 - Maze Runner
-'''
-
 """A maze solving program. Reads in a map written in a text file, solves it behind the scenes, and then graphically recreates the solution on the screen.
     
    MAP CREATION:
