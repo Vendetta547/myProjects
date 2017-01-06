@@ -1,9 +1,3 @@
-'''
-Dylan Martin
-CSC 2950
-Term Project Script 2: Schedule Automation 
-'''
-
 """An automated employee scheduler that graphically displays information using Tkinter. 
    
    Creation of a new employee follows this method:
