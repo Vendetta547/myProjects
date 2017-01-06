@@ -1,9 +1,3 @@
-'''
-Dylan Martin
-CSC 2950
-Term Project Script 1: Tic-tac-toe
-'''
-
 """A tic-tac-toe game made with Python using Tkinter. The game uses an AI as a second player instead of another human.
 
    Known Issue(s): Opponent automatically goes first after 'the cat' wins."""
